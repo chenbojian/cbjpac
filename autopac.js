@@ -1,4 +1,5 @@
 var domains = {
+    "git-scm.com":1,
     "howtogeek.com":1,
     "xboxlive.com":1,
     "inoreader.com":1,
