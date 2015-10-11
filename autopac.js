@@ -1,6 +1,5 @@
 var domains = {
     "howtogeek.com":1,
-    "microsoft.com":1,
     "xboxlive.com":1,
     "inoreader.com":1,
     "okta.com":1,
