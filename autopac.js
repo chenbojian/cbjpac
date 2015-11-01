@@ -1,4 +1,5 @@
 var domains = {
+    "cyber-dojo.org":1,
     "git-scm.com":1,
     "howtogeek.com":1,
     "xboxlive.com":1,
