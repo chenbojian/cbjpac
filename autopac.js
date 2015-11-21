@@ -1,4 +1,5 @@
 var domains = {
+    "chrome.com":1,
     "wp.com":1,
     "gravatar.com":1,
     "cyber-dojo.org":1,
