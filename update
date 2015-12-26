@@ -1,0 +1,2 @@
+#! /bin/zsh
+sed "s/__PROXY__/SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;/g" autopac.js > ~/.ShadowsocksX/gfwlist.js
