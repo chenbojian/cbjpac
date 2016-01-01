@@ -1,4 +1,5 @@
 var domains = {
+    "greasyfork.org":1,
     "seleniumhq.org":1,
     "goo.gl":1,
     "chrome.com":1,
