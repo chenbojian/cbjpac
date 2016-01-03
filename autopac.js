@@ -1,4 +1,5 @@
 var domains = {
+    "stackedit.io":1,
     "bitbucket.org":1,
     "getpocket.com":1,
     "chromium.org":1,
