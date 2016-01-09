@@ -1,4 +1,5 @@
 var domains = {
+    "cloudflare.com":1,
     "jsfiddle.net":1,
     "stackedit.io":1,
     "bitbucket.org":1,
