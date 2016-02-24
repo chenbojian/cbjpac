@@ -1,4 +1,5 @@
 var domains = {
+    "hacg.li":1,
     "hacg.lol":1,
     "cloudflare.com":1,
     "jsfiddle.net":1,
