@@ -1,5 +1,6 @@
 var domains = {
     "w3schools.com":1,
+    "pluralsight.com":1,
     "hacg.li":1,
     "hacg.lol":1,
     "cloudflare.com":1,
