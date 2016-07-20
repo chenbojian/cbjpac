@@ -1,4 +1,5 @@
 var domains = {
+    "hacg.red":1,
     "ggpht.com":1,
     "w3schools.com":1,
     "pluralsight.com":1,
