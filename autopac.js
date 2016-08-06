@@ -1,4 +1,5 @@
 var domains = {
+    "docker.com":1,
     "hacg.red":1,
     "ggpht.com":1,
     "w3schools.com":1,
