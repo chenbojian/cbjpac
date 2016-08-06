@@ -1,4 +1,9 @@
 var domains = {
+    "marketo.com":1,
+    "pingdom.net":1,
+    "mktoresp.com":1,
+    "segment.io":1,
+    "steelhousemeda.com":1,
     "docker.com":1,
     "hacg.red":1,
     "ggpht.com":1,
