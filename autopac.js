@@ -1,4 +1,5 @@
 var domains = {
+    "djangoproject.com":1,
     "marketo.com":1,
     "pingdom.net":1,
     "mktoresp.com":1,
