@@ -1,6 +1,10 @@
 var domains = {
     "microsoftonline-p.com": 1,
     "microsoftonline.com": 1,
+    "azure.com": 1,
+    "azurecomcdn.net": 1,
+    "azurenetcdn.com": 1,
+    "azureedge.net": 1,
     "djangoproject.com":1,
     "marketo.com":1,
     "pingdom.net":1,
