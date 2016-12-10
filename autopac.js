@@ -1,4 +1,6 @@
 var domains = {
+    "microsoftonline-p.com": 1,
+    "microsoftonline.com": 1,
     "djangoproject.com":1,
     "marketo.com":1,
     "pingdom.net":1,
